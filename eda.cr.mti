@@ -1,0 +1,7 @@
+{C:/Users/hassa/OneDrive/Desktop/last eda/edaii.v} {1 {vlog -work work -vopt -stats=none {C:/Users/hassa/OneDrive/Desktop/last eda/edaii.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+
+} {} {}} {C:/Users/hassa/OneDrive/Desktop/last eda/eda_TBii.v} {1 {vlog -work work -vopt -stats=none {C:/Users/hassa/OneDrive/Desktop/last eda/eda_TBii.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+
+} {} {}}
